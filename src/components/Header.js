@@ -15,6 +15,11 @@ const Header = () => {
                     </a>
                 </li>
                 <li>
+                    <a href='#about' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
+                        About
+                    </a>
+                </li>
+                <li>
                     <a href='./Sadman Sakib Resume.pdf' target='_blank' rel='noreferrer' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
                         Resume
                     </a>
